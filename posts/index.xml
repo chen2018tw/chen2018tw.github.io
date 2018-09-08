@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 陳永和政見懶人包 - 2018 台南市長參選人</title>
-    <link>http://chen2018tw.github.io/posts/</link>
+    <link>https://chen2018tw.github.io/posts/</link>
     <description>Recent content in Posts on 陳永和政見懶人包 - 2018 台南市長參選人</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Thu, 16 Jul 2015 23:01:57 +0800</lastBuildDate>
     
-	<atom:link href="http://chen2018tw.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chen2018tw.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>first post</title>
-      <link>http://chen2018tw.github.io/posts/first-post/</link>
+      <link>https://chen2018tw.github.io/posts/first-post/</link>
       <pubDate>Thu, 16 Jul 2015 23:01:57 +0800</pubDate>
       
-      <guid>http://chen2018tw.github.io/posts/first-post/</guid>
+      <guid>https://chen2018tw.github.io/posts/first-post/</guid>
       <description>This is my first post.</description>
     </item>
     
