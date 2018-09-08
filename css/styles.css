@@ -529,6 +529,14 @@ img {
 .entry-title a {
   color: #333333;
 }
+.entry-title a {
+  font-weight:bold;
+  font-size:30px;
+}
+.entry-title a:hover{
+  text-decoration: none;
+  border-bottom:1px solid #fcc;
+}
 .section-title span,
 .entry-title span {
   display: inline-block;
